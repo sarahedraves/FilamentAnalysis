@@ -1,0 +1,8 @@
+FilPics/
+FilPics/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+__pycache__/
+__pycache__/*
+output/
+output/*
